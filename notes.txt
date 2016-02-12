@@ -1,0 +1,20 @@
+=================
+NOTE PHP 
+=================
+Fonction de test : 
+- is_*** : sert a tester le type de fonction 
+  is_array()
+  is_empty()
+
+PHP Objet :
+- les proprieté : se sont les variable associé à la class
+- les methodes : se sont les fonction associé à la class
+- une methode privé : se sont des methodes accessibl euniquement dans la class en quiestion 
+- une methodes public : se sont les methodes accessible depuis d'autre class
+- une methode protected : elle n'est accessible que par les sous-class
+
+====================
+
+Methode de filtrage des donnée dans les formulaire 
+- filter_var() : prend en paramettre la variable qui conctien les donnée, et une paramettre qui specifie le type de filtrage si ce sont des int, string ou autre 
+- 
